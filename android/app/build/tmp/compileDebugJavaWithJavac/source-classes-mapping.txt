@@ -1,0 +1,14 @@
+com/pokedex/MainActivity.java
+ com.pokedex.MainActivity
+com/pokedex/MainApplication.java
+ com.pokedex.MainApplication
+ com.pokedex.MainApplication$1
+com/pokedex/BuildConfig.java
+ com.pokedex.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/pokedex/ReactNativeFlipper.java
+ com.pokedex.ReactNativeFlipper
+ com.pokedex.ReactNativeFlipper$1
+ com.pokedex.ReactNativeFlipper$2
+ com.pokedex.ReactNativeFlipper$2$1
