@@ -12,6 +12,3 @@ Ejecución en emuladores:
 
 * Android: npx react-native run-android
 * iOS: npx react-native run-ios
-
-Video de Emuladores:
-- http://shorturl.at/mJLR0
